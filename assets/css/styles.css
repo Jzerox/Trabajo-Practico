@@ -1,0 +1,33 @@
+html {
+    font-family: 'Oswald', serif;
+    width: auto
+    
+
+    }
+
+.nav-brand {
+    align-content: initial;
+    text-align: left
+
+}
+
+.img-fluid {
+      filter: brightness(60%);
+      filter: contrast(50%);
+}
+
+.carddeck {
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+
+
+
+
+
+
+
